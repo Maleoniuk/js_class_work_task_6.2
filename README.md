@@ -1,0 +1,1 @@
+# js_class_work_task_6.2
